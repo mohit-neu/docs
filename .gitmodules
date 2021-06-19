@@ -1,0 +1,9 @@
+[submodule "proj1"]
+	path = proj1
+	url = git@github.com:mohit-neu/proj1.git
+[submodule "proj2"]
+	path = proj2
+	url = git@github.com:mohit-neu/proj2.git
+[submodule "proj3"]
+	path = proj3
+	url = git@github.com:mohit-neu/proj3.git
